@@ -1,0 +1,18 @@
+13 April, 3:14pm  - Task Assigned
+
+14 April		- Revised concepts of WebScrapping.
+			- Build Scripts for the task but output is None.
+
+15 April 		- Learn Selenium, because BS4 doesn't work on dynamic websites
+			- Understand the errors and debug the scripts
+
+16 April		- Build basic django project and applied scripts
+			- Scripts working without any error
+
+17 April    	- Build Frontend and Rendered Data to frontend
+			- Align Code, improve code logic
+
+18 April  10AM	- Tried to host on PYTHONANYWHERE
+                - Failed, due to chromedriver conflicts
+          1:30pm- Then Successfully hosted on HEROKU 
+          		- Submission
